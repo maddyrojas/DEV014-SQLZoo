@@ -63,7 +63,6 @@ A continuación esta el orden en que te sugerimos seguir los tutoriales.
 12. [Self join](https://sqlzoo.net/wiki/Self_join)
 
     * [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
-    * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 13. [Using Null](https://sqlzoo.net/wiki/Using_Null)
 
