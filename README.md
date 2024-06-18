@@ -81,8 +81,8 @@ explora y discute las diferentes alternativas de soluciones con una coach.
 
 Antes de agendar tu Project Feedback con tu coach, asegúrate de:
 
-- [ ] Completar los 8 tutoriales propuestos
-- [ ] Completar los 11 ejercicios de HackerRank propuestos
+- [ ] Completar los 10 tutoriales propuestos
+- [ ] Completar los 8 ejercicios de HackerRank propuestos
 - [ ] Descubrir al asesino y escribir un informe en una Notebook Colab (Jupyter)
 
 ## 4. Objetivos de aprendizaje
