@@ -22,6 +22,7 @@ Nota: Es importante elegir MySQL como base de datos para solucionar
 los ejercicios de [HackerRank](https://www.hackerrank.com/).
 
 ### SQL Murder Mystery 🕵️‍♀️
+[Solved by MADDY ROJAS](https://colab.research.google.com/github/icarito/UPSK-SQL001-SQLZoo-murder/blob/sql-murder/Sql-Murder-Mystery/SQL_Murder_Mystery.ipynb)
 
 Una vez que hayas completado los tutoriales y los ejercicios de HackerRank, estarás en condiciones de utilizar tus habilidades en SQL para ayudarnos a resolver un misterio: Se ha producido un asesinato en 2018 y hemos accedido a la base dedatos de la policía de SQL City. Necesitamos tu ayuda para encontrar al culpable.
 
